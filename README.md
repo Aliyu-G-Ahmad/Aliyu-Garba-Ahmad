@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Aleeyurbt
-- 👀 I’m interested in JavaScript,Html
-- 🌱 I’m currently learning JavaScript 
+- 👋 Hi, I’m @Aliyu-Garba-Ahmad
+- A tech enthusiast
+- 👀 I’m interested in FrontEnd Drvelopment
+- 🌱 I’m currently learning Html, Css and Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aliyugahmad015@gmail.com
 
